@@ -1,3 +1,3 @@
 # merge-solo
 Hi   
-Bye   
+Bye Xin Yan   
