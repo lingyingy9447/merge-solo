@@ -1,5 +1,5 @@
 # merge-solo
 Hi   
-Bye Xin Yan   
+Bye 
 Hola
 Adios 
