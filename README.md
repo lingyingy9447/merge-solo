@@ -1,6 +1,6 @@
 # merge-solo
-Hello
+Hello friend 
 Bye  
-Hola  
+Hola amigos 
 Adios  
 Nihao
