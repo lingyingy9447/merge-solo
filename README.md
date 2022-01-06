@@ -1,6 +1,6 @@
 # merge-solo
-Hi   
-Bye 
-Hola
-Adios 
-nihao!
+Hi  
+Bye  
+Hola  
+Adios  
+nihao
