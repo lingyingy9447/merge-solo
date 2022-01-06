@@ -1,6 +1,6 @@
 # merge-solo
-Hello friend 
-Bye  
-Hola amigas 
-Adios  
-Nihao
+Hello friend  
+Bye    
+Hola amigas   
+Adios    
+Nihao  
