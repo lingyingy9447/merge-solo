@@ -1,5 +1,5 @@
 # merge-solo
-Hello
+Hello friend 
 Bye  
 Hola amigas 
 Adios  
