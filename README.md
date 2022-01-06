@@ -1,5 +1,5 @@
 # merge-solo
-Hi  
+Hello
 Bye  
 Hola  
 Adios  
